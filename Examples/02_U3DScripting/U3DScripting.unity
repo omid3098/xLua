@@ -210,7 +210,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b9173d38911503c4a9a371b0760bdd15, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  luaScript: {fileID: 4900000, guid: 7cfed86298c2da543b693ffd8436367a, type: 3}
+  luaScript: {fileID: 11400000, guid: 91ebaaf9f22cf4ee29f61bcc2a45129b, type: 3}
   injections:
   - name: lightObject
     value: {fileID: 1609897899}
